@@ -1,0 +1,21 @@
+USE HITS;
+
+drop table InterfaceCard;
+drop table PowerSupplyUnit;
+drop table Memory;
+drop table HDD;
+drop table CPU;
+drop table Server;
+drop table Chassis;
+drop table Rack;
+drop table Replacement;
+drop table Returned;
+drop table Lease;
+drop table Supplies;
+drop table Removal;
+drop table Disposal;
+drop table Installation;
+drop table Product;
+drop table VendorSalePerson;
+drop table Vendor;
+drop table PurchaseOrder;
